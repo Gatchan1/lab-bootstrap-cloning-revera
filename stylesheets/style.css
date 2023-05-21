@@ -1,0 +1,44 @@
+nav {
+    height: 129.4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+#logo {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 800;
+    font-size: 32px;
+}
+
+.first {
+    padding: 0
+}
+
+.second {
+    background-color: rgb(237, 86, 75);
+    color: white;
+    padding: 40px 0;
+
+}
+
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700
+}
+
+h3 {
+    color: rgb(170, 170, 170);
+    font-size: 13.44px;
+}
+
+.col-6 img {
+    width: auto
+}
+
+footer {
+    height: 58.4px;
+    padding: 10px 0;
+    background-color: rgb(41, 41, 41);
+}
